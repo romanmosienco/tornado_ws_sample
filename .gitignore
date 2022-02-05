@@ -1,0 +1,26 @@
+*.manifest
+*.spec
+*.so
+*.pyc
+*.pyo
+*.egg-info
+*.pot
+*.py[co]
+.tox/
+__pycache__
+*.sqlite
+*.sqlite3
+*.log
+
+# pyCharm
+.idea/
+venv
+venv/*
+
+# pytest
+.pytest_cache
+
+# coverage
+.coverage
+htmlcov
+htmlcov/*
